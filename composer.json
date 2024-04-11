@@ -1,0 +1,10 @@
+{
+  "name": "ericboyd/328/pets",
+  "authors": [{
+    "name": "Eric Boyd",
+    "email": "boyd.eric@student.greenriver.edu"
+  }],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
